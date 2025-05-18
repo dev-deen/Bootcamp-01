@@ -9,12 +9,12 @@ print(f"Replaced string \n {o}")
 
 '''
 
-Enter a string: my password is T123
-Enter string to replace : T123
-Enter new substring: ****
+Enter a string: Ananas
+Enter string to replace : an
+Enter new substring: t
 entered string 
- my password is T123
+ Ananas
 Replaced string 
- my password is ****
+ Antas
 
  '''
