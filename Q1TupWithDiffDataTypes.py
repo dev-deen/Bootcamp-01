@@ -1,0 +1,6 @@
+my_tuple = (10, "Mahek", 3.14, True, [1, 2, 3])
+print(type(10))
+print(type("Mahek"))
+print(type(3.14))
+print(type(True))
+print(type([1, 2, 3]))
