@@ -1,0 +1,6 @@
+x=input("enter the original string:")
+y=input("enter the sub string to replace :")
+new=input("enter the new sub string :")
+print(x.replace(y,new))
+result=y.replace(y,new)
+print("update string :",result)
